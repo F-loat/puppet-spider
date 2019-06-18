@@ -15,5 +15,5 @@ puppet fetch <areacode> <keyword> [site]
 ### e.g.
 
 ``` sh
-puppet fetch bj 租房
+puppet fetch bj 智能锁
 ```
